@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MFRC63002HN_151'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NXP", "MFRC63002HN,151" (!) = "", "QFN50P500X500X100-33N-D", "Quad Flat No-Lead", "771-MFRC63002HN151", "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MFRC63002HN151?qs=NQoTdinTi9Gyn8oEeCX95Q%3D%3D", "MFRC63002HN,151", "https://www.arrow.com/en/products/mfrc63002hn151/nxp-semiconductors?region=nac", "NXP - MFRC63002HN,151 - RFID READ/WRITE, 13.56MHZ, HVQFN-32", "http://www.nxp.com/docs/en/data-sheet/MFRC630.pdf", "1 mm"
+END_PART
+
+END.

@@ -1,0 +1,18 @@
+.MFRC63002HN_151 :1 ;NXP - MFRC63002HN,151 - RFID READ/WRITE, 13.56MHZ, HVQFN-32
+QFN50P500X500X100-33N-D
+*STM IC
+*NGS
+*PLB 1="TDO" 2="TDI" 3="TMS" 4="TCK" 5="SIGIN" 6="SIGOUT" 7="DVDD" 8="VDD" 9="AVDD" 10="AUX1" 11="AUX2" 12="RXP" 13="RXN" 14="VMID" 15="TX2" 16="TVSS" 17="TX1" 18="TVDD" 19="XTAL1" 20="XTAL2" 21="PDOWN" 22="CLKOUT" 23="SCL" 24="SDA" 25="PVDD" 26="IFSEL0" 27="IFSEL1" 28="IF0" 29="IF1" 30="IF2" 31="IF3" 32="IRQ" 33="VSS"
+*MXP 33
+*DFN MFRC63002HN_151
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (MFRC63002HN,151)
+~!Mouser Part Number (771-MFRC63002HN151)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MFRC63002HN151?qs=NQoTdinTi9Gyn8oEeCX95Q%3D%3D)
+~!Arrow Part Number (MFRC63002HN,151)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mfrc63002hn151/nxp-semiconductors?region=nac)
+~!Link Datasheet (http://www.nxp.com/docs/en/data-sheet/MFRC630.pdf)
+~!Height (1mm)
+~!3D_Model (MFRC63002HN,151)
+MFRC63002HN_151
+1.1!Y 2.1!I 3.1!I 4.1!I 5.1!I 6.1!Y 7.1!P 8.1!P 9.1!P 10.1!Y 11.1!Y 12.1!I 13.1!I 14.1!P 15.1!Y 16.1!P 24.1!U 23.1!Y 22.1!Y 21.1!I 20.1!Y 19.1!I 18.1!P 17.1!Y 33.1!P 32.1!Y 31.1!U 30.1!U 29.1!U 28.1!U 27.1!I 26.1!I 25.1!P 
