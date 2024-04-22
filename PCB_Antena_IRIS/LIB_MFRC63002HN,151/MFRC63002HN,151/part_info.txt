@@ -1,9 +1,0 @@
-Manufacturer=NXP
-PartNumber=MFRC63002HN,151
-PartCategory=Integrated Circuit
-PackageCategory=Quad Flat No-Lead
-PinCount=33
-Version=1.2
-Released=2018-01-03 14:52:21
-Downloaded=2024-02-23 19:38:50
-3D=Y

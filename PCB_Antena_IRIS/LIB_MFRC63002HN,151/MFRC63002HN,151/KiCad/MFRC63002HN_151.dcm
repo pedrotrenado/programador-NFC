@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MFRC63002HN,151
-D NXP - MFRC63002HN,151 - RFID READ/WRITE, 13.56MHZ, HVQFN-32
-K
-F http://www.nxp.com/docs/en/data-sheet/MFRC630.pdf
-$ENDCMP
-#
-#End Doc Library
